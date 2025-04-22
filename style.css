@@ -425,7 +425,8 @@ footer nav ul li a:hover {
 
     .logo img {
         max-height: 70px;
-        margin-bottom: 6px;
+        margin-bottom: 5px;
+        margin-top: 2px
     }
 }
 
