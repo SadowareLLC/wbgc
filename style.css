@@ -38,7 +38,7 @@ header .container {
 }
 
 .logo img {
-    max-height: 70px; /* Adjusted logo size */
+    max-height: 100px; /* Adjusted logo size */
 }
 
 nav ul {
